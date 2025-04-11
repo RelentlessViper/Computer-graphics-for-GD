@@ -20,4 +20,4 @@ namespace cg::renderer
 
 		std::shared_ptr<cg::renderer::rasterizer<cg::vertex, cg::unsigned_color>> rasterizer;
 	};
-}// namespace cg::renderer
+}
